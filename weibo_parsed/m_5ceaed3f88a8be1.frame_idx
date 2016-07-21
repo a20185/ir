@@ -1,0 +1,13 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=3
+nrows=4379
+[column_names]
+0000=id
+0001=text
+0002=parsed
+[column_files]
+0000=m_5ceaed3f88a8be1.sidx:0
+0001=m_5ceaed3f88a8be1.sidx:1
+0002=m_5ceaed3f88a8be1.sidx:2

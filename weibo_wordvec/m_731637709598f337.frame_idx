@@ -1,0 +1,11 @@
+[sframe]
+version=0
+num_segments=0
+num_columns=2
+nrows=4379
+[column_names]
+0000=word_vec
+0001=tf_word_vec
+[column_files]
+0000=m_731637709598f337.sidx:0
+0001=m_731637709598f337.sidx:1
